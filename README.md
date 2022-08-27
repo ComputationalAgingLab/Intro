@@ -1,6 +1,6 @@
 # Principles
 
-- Openness - all lab projects should be available for third persons at any time.
+- Openness - all lab projects results should be available for third persons at any time.
     - Access to all community members (asking questions and response them by projects leaders)
     - Results should be published
     - Data & Code should be provided (for reproducibility) - Special tools should be used to satisfy this (docker)
