@@ -13,3 +13,7 @@
 - Non-profit
 - Fully computational - we do not conduct wet experiments
     - however, we collaborate only with those who are ready to provide data for **open access**
+
+# Resources
+
+[RUS] Biochemistry of aging and other useful links: https://github.com/prozion/anti-aging-education
